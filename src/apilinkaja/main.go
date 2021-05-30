@@ -174,7 +174,7 @@ func LoggingActivity() {
 	dt := time.Now()
 	//fmt.Println(dt)
 	date := dt.Format("20060102")
-	var filename string = "src/apiloglinkaja/loglinkaja/log" + date + ".log"
+	var filename string = "../apiloglinkaja/loglinkaja/log" + date + ".log"
 
 	// Create the log file if doesn't exist. And append to it if it already exists.
 	f, err := os.OpenFile(filename, os.O_WRONLY|os.O_APPEND|os.O_CREATE, 0644)

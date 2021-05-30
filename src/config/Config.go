@@ -29,7 +29,7 @@ func DetermineListenAddresslinkaja() (string, error) {
 }
 
 const (
-	DB_HOST = "tcp(127.0.0.1:3306)"
+	DB_HOST = "tcp(localhost:3306)"
 	DB_NAME = "linkajadb"
 	DB_USER = "root"
 	DB_PASS = ""

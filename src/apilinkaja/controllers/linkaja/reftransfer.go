@@ -42,14 +42,14 @@ func PostTransfer(c *gin.Context) {
 	if dataFromAccountNumber != nil {
 		fmt.Println("Data Account Number From Tidak Ditermukan")
 		c.JSON(404, gin.H{
-			"dataAccountFrom": "Data Account Number From Tidak Ditermukan",
+			"dataAccountFrom": "Data Account Number From Tidak Ditemukan",
 		})
 	}
 	var dataToAccountNumber = dblinkaja.QueryRow("select * from accounts where account_number = ?", toAccountNumber).Scan(&resultAccountTo.ID, &resultAccountTo.AccountNumber, &resultAccountTo.CustomerNumber, &resultAccountTo.Balance)
 	if dataToAccountNumber != nil {
 		fmt.Println("Data Account Number To Tidak Ditermukan")
 		c.JSON(404, gin.H{
-			"dataAccountTo": "Data Account Number To Tidak Ditermukan",
+			"dataAccountTo": "Data Account Number To Tidak Ditemukan",
 		})
 	}
 

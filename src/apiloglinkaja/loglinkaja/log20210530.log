@@ -205,3 +205,20 @@ time="30-05-2021 13:22:45" level=info msg="Server apilinkaja is ready to handle 
 time="30-05-2021 13:22:49" level=info msg="HTTP Request Method" method=POST request= url=/api/v1/linkaja/transfer
 time="30-05-2021 13:25:26" level=info msg="Server apilinkaja is shutting down..."
 time="30-05-2021 13:25:26" level=info msg="Server apilinkaja stopped"
+time="30-05-2021 14:42:52" level=info msg="Server apilinkaja is ready to handle requests at st :2021"
+time="30-05-2021 14:42:59" level=info msg="HTTP Request Method" method=GET url=/api/v1/linkaja/checksaldo/account
+time="30-05-2021 14:52:03" level=info msg="HTTP Request Method" method=GET url=/api/v1/linkaja/checksaldo/account
+time="30-05-2021 14:54:51" level=info msg="HTTP Request Method" method=POST request= url=/api/v1/linkaja/transfer
+time="30-05-2021 14:56:13" level=info msg="HTTP Request Method" method=POST request= url=/api/v1/linkaja/transfer
+time="30-05-2021 14:56:34" level=info msg="Server apilinkaja is shutting down..."
+time="30-05-2021 14:56:34" level=info msg="Server apilinkaja stopped"
+time="30-05-2021 14:56:45" level=info msg="Server apilinkaja is ready to handle requests at st :2021"
+time="30-05-2021 14:56:48" level=info msg="HTTP Request Method" method=POST request= url=/api/v1/linkaja/transfer
+time="30-05-2021 14:58:20" level=info msg="HTTP Request Method" method=POST request= url=/api/v1/linkaja/transfer
+time="30-05-2021 14:58:27" level=info msg="HTTP Request Method" method=POST request= url=/api/v1/linkaja/transfer
+time="30-05-2021 15:06:40" level=info msg="Server apilinkaja is shutting down..."
+time="30-05-2021 15:06:40" level=info msg="Server apilinkaja stopped"
+time="30-05-2021 15:06:50" level=info msg="Server apilinkaja is ready to handle requests at st :2021"
+time="30-05-2021 15:07:01" level=info msg="HTTP Request Method" method=POST request= url=/api/v1/linkaja/transfer
+time="30-05-2021 15:56:10" level=info msg="Server apilinkaja is shutting down..."
+time="30-05-2021 15:56:10" level=info msg="Server apilinkaja stopped"
