@@ -35,7 +35,7 @@ func GetCheckSaldo(c *gin.Context) {
 	var accountNumber int = txt.Accountnumber
 	var resultAccount Mlinkaja.CustomerAccount
 
-	var stmt = dblinkaja.QueryRow("select * from view_customeraccount where account_number = ?", accountNumber).Scan(&resultAccount.AccountNumber, &resultAccount.CustomerName, &resultAccount.Balance)
+	var stmt = dblinkaja.QueryRow("select * from view_customeraccount where account_number = ?", accountNumber).Scan(&resultAccount.AccountID, &resultAccount.AccountNumber, &resultAccount.CustomerName, &resultAccount.Balance, &resultAccount.CustomerNumber)
 
 	if stmt != nil {
 		c.JSON(http.StatusNotFound, gin.H{

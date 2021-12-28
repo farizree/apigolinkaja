@@ -1,0 +1,19 @@
+time="06-09-2021 16:06:02" level=info msg="Server apilinkaja is ready to handle requests at st :2021"
+time="06-09-2021 16:08:54" level=info msg="HTTP Request Method" method=POST request= url=/api/v1/linkaja/checksaldo/account
+time="06-09-2021 16:10:00" level=info msg="HTTP Request Method" method=POST request= url=/api/v1/linkaja/checksaldo/account
+time="06-09-2021 16:10:21" level=info msg="HTTP Request Method" method=POST request= url=/api/v1/linkaja/checksaldo/account
+time="06-09-2021 16:11:31" level=info msg="HTTP Request Method" method=POST request= url=/api/v1/linkaja/checksaldo/account
+time="06-09-2021 16:11:57" level=info msg="HTTP Request Method" method=POST request= url=/api/v1/linkaja/checksaldo/account
+time="06-09-2021 16:12:20" level=info msg="HTTP Request Method" method=POST request= url=/api/v1/linkaja/checksaldo/account
+time="06-09-2021 16:12:59" level=info msg="HTTP Request Method" method=POST request= url=/api/v1/linkaja/checksaldo/account
+time="06-09-2021 16:13:00" level=info msg="HTTP Request Method" method=POST request= url=/api/v1/linkaja/checksaldo/account
+time="06-09-2021 16:13:14" level=info msg="HTTP Request Method" method=GET url=/api/v1/linkaja/checksaldo/account
+time="06-09-2021 16:23:53" level=info msg="Server apilinkaja is shutting down..."
+time="06-09-2021 16:23:53" level=info msg="Server apilinkaja stopped"
+time="06-09-2021 16:57:58" level=info msg="Server apilinkaja is ready to handle requests at st :2021"
+time="06-09-2021 16:58:01" level=info msg="HTTP Request Method" method=POST request= url=/api/v1/linkaja/transfer
+time="06-09-2021 16:58:23" level=info msg="HTTP Request Method" method=POST request= url=/api/v1/linkaja/transfer
+time="06-09-2021 16:59:16" level=info msg="HTTP Request Method" method=POST request= url=/api/v1/linkaja/transfer
+time="06-09-2021 16:59:38" level=info msg="HTTP Request Method" method=GET url=/api/v1/linkaja/checksaldo/account
+time="06-09-2021 16:59:42" level=info msg="HTTP Request Method" method=POST request= url=/api/v1/linkaja/transfer
+time="06-09-2021 16:59:44" level=info msg="HTTP Request Method" method=GET url=/api/v1/linkaja/checksaldo/account

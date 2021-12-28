@@ -1,0 +1,47 @@
+time="09-09-2021 11:27:33" level=info msg="Server apilinkaja is ready to handle requests at st :2021"
+time="09-09-2021 11:27:37" level=info msg="HTTP Request Method" method=GET url=/api/v1/linkaja/checksaldo/account
+time="09-09-2021 11:31:43" level=info msg="HTTP Request Method" method=GET url=/api/v1/linkaja/checksaldo/account
+time="09-09-2021 11:36:09" level=info msg="HTTP Request Method" method=GET url=/api/v1/linkaja/checksaldo/account
+time="09-09-2021 11:36:16" level=info msg="Server apilinkaja is shutting down..."
+time="09-09-2021 11:36:16" level=info msg="Server apilinkaja stopped"
+time="09-09-2021 11:36:22" level=info msg="Server apilinkaja is ready to handle requests at st :2021"
+time="09-09-2021 11:36:26" level=info msg="HTTP Request Method" method=GET url=/api/v1/linkaja/checksaldo/account
+time="09-09-2021 11:39:39" level=info msg="HTTP Request Method" method=POST request= url=/api/v1/linkaja/transfer
+time="09-09-2021 11:40:10" level=info msg="HTTP Request Method" method=POST request= url=/api/v1/linkaja/transfer
+time="09-09-2021 11:40:26" level=info msg="HTTP Request Method" method=GET url=/api/v1/linkaja/checksaldo/account
+time="09-09-2021 11:40:35" level=info msg="HTTP Request Method" method=POST request= url=/api/v1/linkaja/transfer
+time="09-09-2021 11:40:39" level=info msg="HTTP Request Method" method=GET url=/api/v1/linkaja/checksaldo/account
+time="09-09-2021 11:40:41" level=info msg="HTTP Request Method" method=GET url=/api/v1/linkaja/checksaldo/account
+time="09-09-2021 11:40:42" level=info msg="HTTP Request Method" method=GET url=/api/v1/linkaja/checksaldo/account
+time="09-09-2021 11:46:18" level=info msg="Server apilinkaja is shutting down..."
+time="09-09-2021 11:46:18" level=info msg="Server apilinkaja stopped"
+time="09-09-2021 11:46:25" level=info msg="Server apilinkaja is ready to handle requests at st :2021"
+time="09-09-2021 11:46:30" level=info msg="HTTP Request Method" method=POST request= url=/api/v1/linkaja/transfer
+time="09-09-2021 11:54:11" level=info msg="Server apilinkaja is shutting down..."
+time="09-09-2021 11:54:11" level=info msg="Server apilinkaja stopped"
+time="09-09-2021 11:54:17" level=info msg="Server apilinkaja is ready to handle requests at st :2021"
+time="09-09-2021 11:54:22" level=info msg="HTTP Request Method" method=POST request= url=/api/v1/linkaja/transfer
+time="09-09-2021 11:54:24" level=info msg="HTTP Request Method" method=POST request= url=/api/v1/linkaja/transfer
+time="09-09-2021 11:55:40" level=info msg="Server apilinkaja is shutting down..."
+time="09-09-2021 11:55:40" level=info msg="Server apilinkaja stopped"
+time="09-09-2021 11:55:48" level=info msg="Server apilinkaja is ready to handle requests at st :2021"
+time="09-09-2021 11:55:51" level=info msg="HTTP Request Method" method=POST request= url=/api/v1/linkaja/transfer
+time="09-09-2021 11:55:57" level=info msg="HTTP Request Method" method=POST request= url=/api/v1/linkaja/transfer
+time="09-09-2021 11:56:12" level=info msg="HTTP Request Method" method=POST request= url=/api/v1/linkaja/transfer
+time="09-09-2021 21:08:27" level=info msg="Server apilinkaja is ready to handle requests at st :2021"
+time="09-09-2021 21:08:42" level=info msg="HTTP Request Method" method=POST request= url=/api/v1/linkaja/transfer
+time="09-09-2021 21:12:53" level=info msg="Server apilinkaja is shutting down..."
+time="09-09-2021 21:12:53" level=info msg="Server apilinkaja stopped"
+time="09-09-2021 21:12:59" level=info msg="Server apilinkaja is ready to handle requests at st :2021"
+time="09-09-2021 21:13:03" level=info msg="HTTP Request Method" method=POST request= url=/api/v1/linkaja/transfer
+time="09-09-2021 21:14:48" level=info msg="HTTP Request Method" method=POST request= url=/api/v1/linkaja/transfer
+time="09-09-2021 21:15:16" level=info msg="HTTP Request Method" method=POST request= url=/api/v1/linkaja/transfer
+time="09-09-2021 21:15:52" level=info msg="HTTP Request Method" method=POST request= url=/api/v1/linkaja/transfer
+time="09-09-2021 21:39:28" level=info msg="Server apilinkaja is shutting down..."
+time="09-09-2021 21:39:28" level=info msg="Server apilinkaja stopped"
+time="09-09-2021 21:39:34" level=info msg="Server apilinkaja is ready to handle requests at st :2021"
+time="09-09-2021 21:39:39" level=info msg="HTTP Request Method" method=POST request= url=/api/v1/linkaja/transfer
+time="09-09-2021 21:42:40" level=info msg="HTTP Request Method" method=POST request= url=/api/v1/linkaja/transfer
+time="09-09-2021 22:22:46" level=info msg="HTTP Request Method" method=POST request= url=/api/v1/linkaja/transfer
+time="10-09-2021 13:35:14" level=info msg="Server apilinkaja is shutting down..."
+time="10-09-2021 13:35:14" level=info msg="Server apilinkaja stopped"
